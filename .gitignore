@@ -1,0 +1,8 @@
+node_modules/
+.cache/
+.DS_Store
+debug.png
+
+# Exclude real result files, keep only examples
+Result/*.txt
+!Result/example-*.txt

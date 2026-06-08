@@ -1,0 +1,31 @@
+────────────────────────────────────────────────────
+Mnemonic : word1 word2 word3 word4 word5 word6 word7 word8 word9 word10 word11 word12
+PrivKey  : 0xabc123def456abc123def456abc123def456abc123def456abc123def456abc1
+Address  : 0x7cad02c1e53decf5d1102a4b9bee5de79c6d2e18
+WALLET             $18.43
+PROTOCOL / DeFi
+Aave V3            $15.22
+Uniswap V3         $9.44
+Curve              $3.15
+DeFi               $27.81
+Protocol count     3
+BALANCE            $46.24
+────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────
+PrivKey  : 0xdef456abc123def456abc123def456abc123def456abc123def456abc123def4
+Address  : 0xAE596B4c7326623C940f0d72c3a036FF91088463
+WALLET             $12.05
+BALANCE            $12.05
+────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────
+Address  : 0x67469Fc8D2eB2fF983d6415aD4424EeB362F08b9
+WALLET             $31.87
+PROTOCOL / DeFi
+Pendle V2          $24.10
+Beefy              $8.63
+DeFi               $32.73
+Protocol count     2
+BALANCE            $64.60
+────────────────────────────────────────────────────
