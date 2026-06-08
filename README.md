@@ -217,8 +217,10 @@ If this tool has been useful, consider sending a tip:
 **`File not found: mnemonics.txt`**
 → Create the file in the `Crypto Checker/` folder and add your mnemonics.
 
-**`npx playwright install` fails**
-→ Make sure Node.js 18+ is installed. On macOS/Linux, try with `sudo` if permission errors occur.
+**`npx playwright install` fails**  
+→ Make sure Node.js 18+ is installed.  
+→ **macOS/Linux:** try with `sudo npx playwright install chromium`  
+→ **Windows:** run Command Prompt or PowerShell as Administrator, then retry
 
 **All wallets show `$0.00`**
 → DeBank may be rate-limiting. Lower `CONCURRENCY` and `BROWSER_COUNT`, or wait a few minutes before retrying.
